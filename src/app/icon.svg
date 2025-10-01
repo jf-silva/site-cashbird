@@ -1,0 +1,26 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="32" fill="#FBBF24"/>
+  <circle cx="32" cy="32" r="28" fill="#F59E0B"/>
+  
+  <!-- Pássaro -->
+  <ellipse cx="32" cy="28" rx="12" ry="8" fill="#1F2937"/>
+  <ellipse cx="28" cy="26" rx="3" ry="2" fill="#FFFFFF"/>
+  <circle cx="28" cy="26" r="1" fill="#000000"/>
+  
+  <!-- Bico -->
+  <polygon points="20,28 16,30 20,32" fill="#F59E0B"/>
+  
+  <!-- Asa -->
+  <ellipse cx="38" cy="30" rx="6" ry="4" fill="#374151" transform="rotate(15 38 30)"/>
+  
+  <!-- Cauda -->
+  <ellipse cx="44" cy="32" rx="4" ry="2" fill="#374151" transform="rotate(30 44 32)"/>
+  
+  <!-- Moeda -->
+  <circle cx="48" cy="20" r="6" fill="#EAB308"/>
+  <circle cx="48" cy="20" r="4" fill="#F59E0B"/>
+  <text x="48" y="24" text-anchor="middle" fill="#1F2937" font-size="6" font-weight="bold">R$</text>
+  
+  <!-- Efeito de brilho -->
+  <ellipse cx="26" cy="22" rx="2" ry="1" fill="#FFFFFF" opacity="0.6"/>
+</svg>
